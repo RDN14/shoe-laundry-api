@@ -14,4 +14,6 @@ Struktur tabel di Supabase bernama `items` dengan kolom `id` (integer, primary k
 
 Proyek ini diujikan menggunakan Postman untuk memastikan setiap endpoint berfungsi dengan benar, dan seluruh kode dikembangkan di Visual Studio Code. File `.env` wajib dijaga agar tidak diunggah ke GitHub. Setelah pengujian berhasil, proyek dideploy ke Vercel agar dapat diakses publik melalui URL: [https://shoe-laundry-api.vercel.app](https://shoe-laundry-api.vercel.app).  
 
+🌐 **API Deploy:** [https://shoe-laundry-api.vercel.app](https://shoe-laundry-api.vercel.app)
+
 Dibuat oleh **Muhammad Ardan Fadli (RDN14)** sebagai bagian dari responsi backend API. Teknologi utama: Node.js, Express.js, Supabase, dan Vercel.  
